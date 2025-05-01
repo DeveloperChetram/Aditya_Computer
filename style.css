@@ -327,7 +327,12 @@ section {
 
 }
 
-.s-content div:hover {
+.s-content div:hover i  {
+    /* transform: scale(.95); */
+    transform: scale(1.2);
+    transform: rotate(360deg)
+}
+.s-content div:hover  {
     transform: scale(.95);
 }
 
@@ -360,7 +365,7 @@ section {
 
 .s-content i {
     margin-bottom: 20px;
-    font-size: 85px;
+    font-size: 55px;
     text-align: center;
     align-items: center;
     color: orangered;
@@ -369,11 +374,7 @@ section {
 
 }
 
-.s-content i:hover {
-    transform: scale(1.2);
-    transform: rotate(360deg);
 
-}
 
 .s-content div a {
     display: inline-block;
