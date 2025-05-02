@@ -19,12 +19,6 @@ Welcome to **Aditya Computer** – my very first web development project! This i
 
 This website adapts to different screen sizes, offering a clean and usable experience whether you're browsing on a desktop or a smartphone.
 
-## 📂 Folder Structure
-aditya-computer/
-├── index.html
-├── style.css
-├── images/
-└── README.md
 
 
 ## 🔍 Live Preview
